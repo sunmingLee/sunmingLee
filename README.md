@@ -8,7 +8,7 @@
 
 ## My Skills
 - Languages & Frameworks  
-  Java, Spring, MySql, MyBatis  
+  Java, JavaScript, Spring, SpringBoot, MySql, MyBatis, VueJS  
   
 - Tools  
   GitHub, AWS, Apache Tomcat
