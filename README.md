@@ -2,9 +2,9 @@
 
 <a href="https://solved.ac/tjsals13"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsals13" width=300px/></a>
 
-## My Blogs
+<!-- ## My Blogs
 티스토리 : https://tjsals.tistory.com/  
-깃헙블로그 : https://sunminglee.github.io/
+깃헙블로그 : https://sunminglee.github.io/ -->
 
 ## My Skills
 - Languages & Frameworks  
